@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.myproject22-20979098.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "L:/UE_5.0/Projets/ADAPEI/ADAPEI/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "F:/ADAPEI/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
